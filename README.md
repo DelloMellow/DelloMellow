@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Farrell Liko Tanlimhuijaya</h1>
-<h3 align="center">A passionate frontend and mobile developer</h3>
+<h1 align="center">Hi👋, I'm Farrell Liko Tanlimhuijaya</h1>
+<h2 align="center">Front-end Developer | Mobile Developer</h2>
 
 - 🌱 I’m currently learning about **React, Flutter, and Kotlin**
 
